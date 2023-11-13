@@ -1,6 +1,2 @@
 # CMNPythonMini
-print("Python Mini - Clash Mini "private" server,on version 1-1143-2.")
-
-"Keep an eye on this GitHub page,and soon enough, you'll get what you want."
-
-"#%" % Done.
+Python Mini - Clash Mini "private" server,on version 1-1143-2(Update 1.5)
